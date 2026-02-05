@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_garch_estimation'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'GARCH parameter estimation and interpretation for energy time series.'
+
+Keywords: 'GARCH, parameter estimation, maximum likelihood, volatility persistence, energy'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

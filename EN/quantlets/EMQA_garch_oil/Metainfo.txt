@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_garch_oil'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'GARCH model estimation for crude oil return volatility.'
+
+Keywords: 'GARCH, oil volatility, conditional variance, Brent crude, volatility modeling'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

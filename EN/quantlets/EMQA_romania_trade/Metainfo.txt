@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_romania_trade'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Romania energy import and export analysis with cross-border flows.'
+
+Keywords: 'Romania, energy trade, import, export, cross-border, electricity exchange'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

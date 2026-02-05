@@ -1,0 +1,11 @@
+Name of QuantLet: 'RollingHedge'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Rolling hedge implementation for long-term energy exposure management.'
+
+Keywords: 'rolling hedge, futures, energy hedging, contract rollover, risk management'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_ro_wind_solar'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Romania wind and solar energy production analysis and variability.'
+
+Keywords: 'Romania, wind power, solar energy, renewable variability, energy production'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

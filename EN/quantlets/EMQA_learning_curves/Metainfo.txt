@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_learning_curves'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Learning curves analysis for machine learning models on energy data.'
+
+Keywords: 'learning curves, bias-variance, model complexity, overfitting, underfitting'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

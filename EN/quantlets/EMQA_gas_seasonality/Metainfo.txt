@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_gas_seasonality'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Seasonal pattern analysis of natural gas prices with seasonal index computation.'
+
+Keywords: 'natural gas, seasonality, seasonal index, Henry Hub, energy prices'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

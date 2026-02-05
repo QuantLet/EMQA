@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_energy_overview'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Overview visualization of global energy markets including oil, gas, and electricity price dynamics.'
+
+Keywords: 'energy markets, oil prices, gas prices, electricity prices, market overview'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

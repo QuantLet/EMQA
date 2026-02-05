@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_elec_intraday'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Intraday electricity price pattern analysis showing hourly demand-driven cycles.'
+
+Keywords: 'intraday, electricity prices, hourly patterns, peak demand, power market'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

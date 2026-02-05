@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_ar1_simulation'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'AR(1) process simulation demonstrating persistence and mean reversion dynamics.'
+
+Keywords: 'AR(1), simulation, persistence, mean reversion, autoregressive process'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

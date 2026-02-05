@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_crack_spread'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Crack spread analysis between crude oil and refined petroleum products.'
+
+Keywords: 'crack spread, refinery margin, oil, gasoline, diesel, spread trading'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

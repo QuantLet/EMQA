@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_oil_returns'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Log returns computation and analysis for crude oil prices.'
+
+Keywords: 'log returns, oil prices, return distribution, financial returns, Brent crude'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

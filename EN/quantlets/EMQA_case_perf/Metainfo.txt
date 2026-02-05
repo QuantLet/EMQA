@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_case_perf'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Trading strategy performance analysis with returns, Sharpe ratio, and drawdown metrics.'
+
+Keywords: 'strategy performance, Sharpe ratio, drawdown, backtesting, trading evaluation'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

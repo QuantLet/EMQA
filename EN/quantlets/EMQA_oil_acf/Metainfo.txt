@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_oil_acf'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Autocorrelation function analysis of crude oil prices and returns.'
+
+Keywords: 'ACF, autocorrelation, oil prices, serial correlation, time series'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

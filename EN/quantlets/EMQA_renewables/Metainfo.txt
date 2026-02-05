@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_renewables'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Renewable energy production analysis including wind and solar generation patterns.'
+
+Keywords: 'renewable energy, wind power, solar energy, energy production, green energy'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

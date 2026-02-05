@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_oil_prices'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Oil prices overview and historical analysis with trend identification.'
+
+Keywords: 'oil prices, Brent crude, WTI, historical analysis, energy commodities'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

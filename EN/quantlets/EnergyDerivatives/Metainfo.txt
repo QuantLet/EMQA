@@ -1,0 +1,11 @@
+Name of QuantLet: 'EnergyDerivatives'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Energy derivatives analysis including futures, options, and structured products.'
+
+Keywords: 'energy derivatives, futures, options, structured products, energy trading'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

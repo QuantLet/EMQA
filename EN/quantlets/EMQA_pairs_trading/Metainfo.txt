@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_pairs_trading'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Pairs trading strategy implementation for crude oil benchmarks (Brent-WTI).'
+
+Keywords: 'pairs trading, statistical arbitrage, Brent, WTI, cointegration, spread'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

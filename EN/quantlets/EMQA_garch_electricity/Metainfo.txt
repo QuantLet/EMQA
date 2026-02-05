@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_garch_electricity'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'GARCH modeling for electricity price volatility with spike dynamics.'
+
+Keywords: 'GARCH, electricity, volatility, price spikes, power market risk'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

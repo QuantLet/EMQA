@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_vol_dynamics'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Conditional volatility dynamics visualization from GARCH model output.'
+
+Keywords: 'volatility dynamics, conditional variance, GARCH, time-varying volatility'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

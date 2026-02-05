@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_elec_weekly'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Weekly electricity price patterns comparing weekday and weekend dynamics.'
+
+Keywords: 'weekly pattern, electricity prices, weekday, weekend, power demand'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

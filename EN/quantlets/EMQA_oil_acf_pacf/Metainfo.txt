@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_oil_acf_pacf'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'ACF and PACF analysis of oil prices for ARIMA order selection.'
+
+Keywords: 'ACF, PACF, oil prices, order selection, ARIMA identification'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_ro_demand'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Romania electricity demand analysis with consumption patterns and trends.'
+
+Keywords: 'Romania, electricity demand, consumption, energy balance, power system'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_feature_importance'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Feature importance analysis for energy price prediction models.'
+
+Keywords: 'feature importance, variable selection, random forest, energy prediction'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

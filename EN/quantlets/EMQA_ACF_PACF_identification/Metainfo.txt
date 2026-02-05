@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_ACF_PACF_identification'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'ACF and PACF pattern guide for ARIMA model identification.'
+
+Keywords: 'ACF, PACF, model identification, ARIMA, Box-Jenkins, pattern recognition'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

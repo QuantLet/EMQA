@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_seasonality'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Seasonality detection methods applied to energy market data.'
+
+Keywords: 'seasonality, detection, periodic patterns, Fourier analysis, energy markets'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_actual_vs_predicted'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Actual vs predicted price comparison for energy forecasting model evaluation.'
+
+Keywords: 'actual vs predicted, forecast evaluation, model accuracy, energy prices'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'

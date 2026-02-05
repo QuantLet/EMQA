@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_volatility_clustering'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Volatility clustering analysis in energy markets showing persistence of large price moves.'
+
+Keywords: 'volatility clustering, GARCH, squared returns, energy volatility, stylized facts'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Wednesday, 5 February 2026'
