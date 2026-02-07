@@ -2,9 +2,9 @@ Name of QuantLet: 'EMQA_feature_importance'
 
 Published in: 'Energy Markets Quantitative Analysis (EMQA)'
 
-Description: 'Feature importance analysis for energy price prediction models.'
+Description: 'Feature importance from a Random Forest model predicting Romanian electricity price changes. Includes comparison of cross-market signal feature sets: DE (German) prices vs gas prices.'
 
-Keywords: 'feature importance, variable selection, random forest, energy prediction'
+Keywords: 'feature importance, variable selection, random forest, energy prediction, cross-market, gas vs electricity'
 
 Author: 'Daniel Traian Pele'
 
