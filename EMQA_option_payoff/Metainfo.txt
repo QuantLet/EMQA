@@ -1,0 +1,11 @@
+Name of QuantLet: 'EMQA_option_payoff'
+
+Published in: 'Energy Markets Quantitative Analysis (EMQA)'
+
+Description: 'Option payoff diagrams for energy derivatives: long/short calls and puts, straddles, strangles, and bull/bear spreads.'
+
+Keywords: 'option payoff, call option, put option, straddle, strangle, spread, energy options'
+
+Author: 'Daniel Traian Pele'
+
+Submitted: 'Saturday, 8 February 2026'
